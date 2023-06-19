@@ -1,0 +1,6 @@
+/bin
+/build
+.git/
+.history/
+.DS_Store/
+.vscode/
